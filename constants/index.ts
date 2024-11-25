@@ -82,6 +82,6 @@ export const sortTypes = [
 ];
 
 export const avatarPlaceholderUrl =
-  'https://cdn.pixabay.com/photo/2023/03/24/13/38/avatar-7874049_1280.jpg';
+  '/documents';
 
 export const MAX_FILE_SIZE = 50 * 1024 * 1024; // 50MB
